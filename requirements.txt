@@ -1,0 +1,5 @@
+git+https://github.com/Bucciamarcia/libreria-ai-per-tutti.git
+faiss-gpu
+faiss-cpu
+pypdf
+langchain
